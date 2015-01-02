@@ -1,5 +1,4 @@
 #computervision
-==================================================================
 Coursework for a computer vision course I took at NYU, Spring 2014. The course was taught by [Rob Fergus](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php). Course site could be accessed [here](http://cs.nyu.edu/~fergus/teaching/vision/)
 __________________________________________________________________
 #### Assignment 1
